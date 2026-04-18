@@ -1,5 +1,5 @@
 # 👋 Hello World, I'm Sayanita Dutta
-Welcome to my GitHub! 🚀 <br> I’m Data Science and analytics professional with 4+ Years of experience. Currently working on Computer vision project<br><br>👯 I’m looking to collaborate on AI/ ML project<br><br>🤝 I’m looking for help with AI/ML project<br><br>📫 How to reach me https://www.linkedin.com/in/sayanitad/
+Welcome to my GitHub! 🚀 <br><br> I’m Data Science and analytics professional with 4+ Years of experience. Currently working on Computer vision project.<br><br>👯 I’m looking to collaborate on AI/ ML project<br><br>🤝 I’m looking for help with AI/ML project<br><br>📫 How to reach me https://www.linkedin.com/in/sayanitad/
 
 
 ## 🌐 Socials
