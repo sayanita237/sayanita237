@@ -1,8 +1,7 @@
-## 👋 Hello World, I'm Sayanita Dutta
-Welcome to my GitHub! 🚀 <br><br> I’m Data Science and analytics professional with 4+ Years of experience. Currently working on Computer vision project.<br><br>👯 I’m looking to collaborate on AI/ ML project<br><br>🤝 I’m looking for help with AI/ML project<br><br>📫 How to reach me https://www.linkedin.com/in/sayanitad/
+## Hi, I'm Sayanita 👩🏻‍💻👋🏻
+Welcome to my GitHub! 🚀 <br><br> I’m Data Science and analytics professional with 4+ Years of experience. Currently working on RAG based project.<br><br> I enjoy working on Python, BI, AI/ML projects.
 
-
-#### 🌐 Socials
+#### Find me around the web 🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sayanitad/) 
 
 #### 💻 Tech Stack
